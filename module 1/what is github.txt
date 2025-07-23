@@ -1,0 +1,22 @@
+what is github ? 
+  github is a microsoft products
+  github is used to upload your data on github server.
+  github is an repository systems provides to upload data
+
+  step 1: create an account on github
+           https://github.com/
+
+  step 2 create an repository on github
+          https://github.com/Brijesh1990/frontenddata-530pm-tts.git
+
+  step-3 download git software  
+          https://git-scm.com/downloads/win
+
+ step-4 how to upload data on github repository commands 
+         a) git init
+         b) git add .
+         c) git commit -m '22-07-2025 all data uploaded'
+         d) git remote add origin  https://github.com/Brijesh1990/frontenddata-530pm-tts.git     
+         e) git push -u origin master
+    
+   
